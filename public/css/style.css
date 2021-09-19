@@ -1,0 +1,86 @@
+
+
+.homeNav{
+	font-size: 18px;
+}
+
+.homeNav a{
+	color: black;
+	text-underline-position: none;
+}
+
+.StudentCount{
+	background-color: #4e73df;
+	width: 400px;
+	height: 150px;
+	margin-bottom: 30px;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	 box-shadow: 10px 10px 8px 10px #888888;
+}
+
+.bookCount{
+	background-color:#1cc88a;
+	width: 400px;
+	height: 150px;
+	margin-bottom: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	 box-shadow: 10px 10px 8px 10px #888888;
+}
+
+.BookOut{
+	background-color: #f6c23e;
+	width: 400px;
+	height: 150px;
+	margin-bottom: 30px;
+	margin-bottom: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	 box-shadow: 10px 10px 8px 10px #888888;
+}
+
+.bookmeta{
+	background-color:#36b9cc;
+	width: 400px;
+	height: 150px;
+	margin-bottom: 30px;
+	margin-bottom: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	 box-shadow: 10px 10px 8px 10px #888888;
+}
+
+.sub_title{
+	background-color: #4e73df;
+	height: 50px;
+	text-align: center;
+	padding-top: 5px;
+}
